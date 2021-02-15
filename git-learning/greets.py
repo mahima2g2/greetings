@@ -1,3 +1,6 @@
 greetings = list((['hello',
                    'hi',
-                   'hey']))
+                   'hey',
+                   'morning',
+                   'afternoon',
+                   'evening']))
